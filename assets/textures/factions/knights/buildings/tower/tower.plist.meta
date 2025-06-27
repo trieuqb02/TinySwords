@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "11813": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@11813",
+      "displayName": "",
+      "id": "11813",
+      "name": "Tower_Purple",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -15,
+        "trimX": 1,
+        "trimY": 189,
+        "width": 116,
+        "height": 186,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bb37": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@8bb37",
+      "displayName": "",
+      "id": "8bb37",
+      "name": "Tower_Blue",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -15,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 116,
+        "height": 186,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5c74": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@b5c74",
+      "displayName": "",
+      "id": "b5c74",
+      "name": "Tower_Construction",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -62,
+        "trimX": 131,
+        "trimY": 377,
+        "width": 104,
+        "height": 86,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb537": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@eb537",
+      "displayName": "",
+      "id": "eb537",
+      "name": "Tower_Destroyed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -59,
+        "trimX": 1,
+        "trimY": 377,
+        "width": 128,
+        "height": 88,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83d27": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@83d27",
+      "displayName": "",
+      "id": "83d27",
+      "name": "Tower_Red",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -15,
+        "trimX": 119,
+        "trimY": 1,
+        "width": 116,
+        "height": 186,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9918d": {
+      "importer": "sprite-frame",
+      "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d@9918d",
+      "displayName": "",
+      "id": "9918d",
+      "name": "Tower_Yellow",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -15,
+        "trimX": 119,
+        "trimY": 189,
+        "width": 116,
+        "height": 186,
+        "rawWidth": 128,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a",
+        "atlasUuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "tower.png",
+    "format": 3,
+    "uuid": "93f7825d-4ca3-4ddd-933f-73701d90e05d",
+    "textureUuid": "15342d50-dea7-4942-a8e5-d24a1696739b@6c48a"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "66349": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@66349",
+      "displayName": "",
+      "id": "66349",
+      "name": "Dynamite-5",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": 5,
+        "trimX": 97,
+        "trimY": 1,
+        "width": 30,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86688": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@86688",
+      "displayName": "",
+      "id": "86688",
+      "name": "Dynamite-2",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 5,
+        "trimX": 129,
+        "trimY": 1,
+        "width": 28,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9a21": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@a9a21",
+      "displayName": "",
+      "id": "a9a21",
+      "name": "Dynamite-0",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 5,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 30,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d17d0": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@d17d0",
+      "displayName": "",
+      "id": "d17d0",
+      "name": "Dynamite-1",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 5,
+        "trimX": 33,
+        "trimY": 1,
+        "width": 30,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a8b4": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@0a8b4",
+      "displayName": "",
+      "id": "0a8b4",
+      "name": "Dynamite-3",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 159,
+        "trimY": 1,
+        "width": 28,
+        "height": 52,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e219": {
+      "importer": "sprite-frame",
+      "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469@9e219",
+      "displayName": "",
+      "id": "9e219",
+      "name": "Dynamite-4",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 5,
+        "trimX": 65,
+        "trimY": 1,
+        "width": 30,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a",
+        "atlasUuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "dynamite.png",
+    "format": 3,
+    "uuid": "fd72ac10-3cd6-4bc7-b7ad-b3e272bc4469",
+    "textureUuid": "c62c3c5a-fda4-45ff-b88a-6f34a9ed51a3@6c48a"
+  }
+}

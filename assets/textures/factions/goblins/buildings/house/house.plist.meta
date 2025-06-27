@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "9ee46de5-f387-48dd-9cc5-53978ea81030",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "7f2ad": {
+      "importer": "sprite-frame",
+      "uuid": "9ee46de5-f387-48dd-9cc5-53978ea81030@7f2ad",
+      "displayName": "",
+      "id": "7f2ad",
+      "name": "Goblin_House",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 116,
+        "height": 148,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6fdd014b-0721-4fda-a441-18eb250ee141@6c48a",
+        "atlasUuid": "9ee46de5-f387-48dd-9cc5-53978ea81030",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20ccc": {
+      "importer": "sprite-frame",
+      "uuid": "9ee46de5-f387-48dd-9cc5-53978ea81030@20ccc",
+      "displayName": "",
+      "id": "20ccc",
+      "name": "Goblin_House_Destroyed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": -27,
+        "trimX": 151,
+        "trimY": 1,
+        "width": 100,
+        "height": 104,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6fdd014b-0721-4fda-a441-18eb250ee141@6c48a",
+        "atlasUuid": "9ee46de5-f387-48dd-9cc5-53978ea81030",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "house.png",
+    "format": 3,
+    "uuid": "9ee46de5-f387-48dd-9cc5-53978ea81030",
+    "textureUuid": "6fdd014b-0721-4fda-a441-18eb250ee141@6c48a"
+  }
+}

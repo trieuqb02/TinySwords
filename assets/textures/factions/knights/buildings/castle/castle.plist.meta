@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "70711": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@70711",
+      "displayName": "",
+      "id": "70711",
+      "name": "Castle_Red",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -19,
+        "trimX": 601,
+        "trimY": 1,
+        "width": 298,
+        "height": 208,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57bcb": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@57bcb",
+      "displayName": "",
+      "id": "57bcb",
+      "name": "Castle_Blue",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -19,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 298,
+        "height": 208,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f024": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@5f024",
+      "displayName": "",
+      "id": "5f024",
+      "name": "Castle_Construction",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -65,
+        "trimX": 1201,
+        "trimY": 123,
+        "width": 290,
+        "height": 110,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ff77": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@0ff77",
+      "displayName": "",
+      "id": "0ff77",
+      "name": "Castle_Destroyed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -67,
+        "trimX": 1201,
+        "trimY": 1,
+        "width": 320,
+        "height": 120,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af34a": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@af34a",
+      "displayName": "",
+      "id": "af34a",
+      "name": "Castle_Purple",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -19,
+        "trimX": 301,
+        "trimY": 1,
+        "width": 298,
+        "height": 208,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c82a": {
+      "importer": "sprite-frame",
+      "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4@3c82a",
+      "displayName": "",
+      "id": "3c82a",
+      "name": "Castle_Yellow",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -19,
+        "trimX": 901,
+        "trimY": 1,
+        "width": 298,
+        "height": 208,
+        "rawWidth": 320,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a",
+        "atlasUuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "castle.png",
+    "format": 3,
+    "uuid": "bcea0139-8abd-4600-a800-7a06d2fc6ab4",
+    "textureUuid": "d4168483-c2b4-47a5-b073-eeaf809e8f3e@6c48a"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "cd2c2": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@cd2c2",
+      "displayName": "",
+      "id": "cd2c2",
+      "name": "House_Blue",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 110,
+        "height": 150,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "720cf": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@720cf",
+      "displayName": "",
+      "id": "720cf",
+      "name": "House_Construction",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -41,
+        "trimX": 1,
+        "trimY": 609,
+        "width": 98,
+        "height": 96,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1870": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@d1870",
+      "displayName": "",
+      "id": "d1870",
+      "name": "House_Destroyed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": -28,
+        "trimX": 1,
+        "trimY": 707,
+        "width": 96,
+        "height": 86,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "188b5": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@188b5",
+      "displayName": "",
+      "id": "188b5",
+      "name": "House_Purple",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 153,
+        "width": 110,
+        "height": 150,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc694": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@bc694",
+      "displayName": "",
+      "id": "bc694",
+      "name": "House_Red",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 305,
+        "width": 110,
+        "height": 150,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "127c4": {
+      "importer": "sprite-frame",
+      "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5@127c4",
+      "displayName": "",
+      "id": "127c4",
+      "name": "House_Yellow",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 457,
+        "width": 110,
+        "height": 150,
+        "rawWidth": 128,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a",
+        "atlasUuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "house.png",
+    "format": 3,
+    "uuid": "ea5cdab7-90b3-436c-bc1f-8eb23f0871f5",
+    "textureUuid": "c0c3007e-e544-4a3e-812e-78cb162549c0@6c48a"
+  }
+}

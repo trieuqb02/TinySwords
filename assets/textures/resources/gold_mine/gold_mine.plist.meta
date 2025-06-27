@@ -1,0 +1,155 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "3828fe2c-45f7-4d00-8df9-7196c397f580",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "59f6f": {
+      "importer": "sprite-frame",
+      "uuid": "3828fe2c-45f7-4d00-8df9-7196c397f580@59f6f",
+      "displayName": "",
+      "id": "59f6f",
+      "name": "GoldMine_Active",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 172,
+        "height": 124,
+        "rawWidth": 192,
+        "rawHeight": 128,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "387ec7c3-2486-43eb-8f18-aacae487790e@6c48a",
+        "atlasUuid": "3828fe2c-45f7-4d00-8df9-7196c397f580",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "569f0": {
+      "importer": "sprite-frame",
+      "uuid": "3828fe2c-45f7-4d00-8df9-7196c397f580@569f0",
+      "displayName": "",
+      "id": "569f0",
+      "name": "GoldMine_Destroyed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -3,
+        "trimX": 1,
+        "trimY": 245,
+        "width": 166,
+        "height": 98,
+        "rawWidth": 192,
+        "rawHeight": 128,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "387ec7c3-2486-43eb-8f18-aacae487790e@6c48a",
+        "atlasUuid": "3828fe2c-45f7-4d00-8df9-7196c397f580",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4bd3": {
+      "importer": "sprite-frame",
+      "uuid": "3828fe2c-45f7-4d00-8df9-7196c397f580@e4bd3",
+      "displayName": "",
+      "id": "e4bd3",
+      "name": "GoldMine_Inactive",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "trimX": 1,
+        "trimY": 127,
+        "width": 172,
+        "height": 116,
+        "rawWidth": 192,
+        "rawHeight": 128,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "387ec7c3-2486-43eb-8f18-aacae487790e@6c48a",
+        "atlasUuid": "3828fe2c-45f7-4d00-8df9-7196c397f580",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "gold_mine.png",
+    "format": 3,
+    "uuid": "3828fe2c-45f7-4d00-8df9-7196c397f580",
+    "textureUuid": "387ec7c3-2486-43eb-8f18-aacae487790e@6c48a"
+  }
+}

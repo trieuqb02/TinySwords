@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "c50b6": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@c50b6",
+      "displayName": "",
+      "id": "c50b6",
+      "name": "Button_Blue",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "trimX": 1,
+        "trimY": 189,
+        "width": 52,
+        "height": 58,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e59ff": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@e59ff",
+      "displayName": "",
+      "id": "e59ff",
+      "name": "Button_Blue_3Slides",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "trimX": 367,
+        "trimY": 1,
+        "width": 180,
+        "height": 58,
+        "rawWidth": 192,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b7ce": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@1b7ce",
+      "displayName": "",
+      "id": "1b7ce",
+      "name": "Button_Blue_3Slides_Pressed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "trimX": 183,
+        "trimY": 187,
+        "width": 184,
+        "height": 54,
+        "rawWidth": 192,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3bdc0": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@3bdc0",
+      "displayName": "",
+      "id": "3bdc0",
+      "name": "Button_Blue_9Slides",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 3,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 180,
+        "height": 186,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a01ba": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@a01ba",
+      "displayName": "",
+      "id": "a01ba",
+      "name": "Button_Blue_9Slides_Pressed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "trimX": 183,
+        "trimY": 1,
+        "width": 184,
+        "height": 182,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dccb7": {
+      "importer": "sprite-frame",
+      "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208@dccb7",
+      "displayName": "",
+      "id": "dccb7",
+      "name": "Button_Blue_Pressed",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "trimX": 369,
+        "trimY": 183,
+        "width": 56,
+        "height": 54,
+        "rawWidth": 64,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9249110d-41d0-4018-a481-3553df778c47@6c48a",
+        "atlasUuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "button_blue.png",
+    "format": 3,
+    "uuid": "8a882c38-5c13-43b9-a42f-7e77fee16208",
+    "textureUuid": "9249110d-41d0-4018-a481-3553df778c47@6c48a"
+  }
+}
